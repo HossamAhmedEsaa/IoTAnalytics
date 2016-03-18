@@ -1,0 +1,67 @@
+C:\New folder\PwC.IN.IM.SensorTag.DataAnalysis\PwC.IN.IM.SensorTag.DataAnalysis\SensorTagLibrary\bin\Debug\X2CodingLab.SensorTag.dll
+C:\New folder\PwC.IN.IM.SensorTag.DataAnalysis\PwC.IN.IM.SensorTag.DataAnalysis\SensorTagLibrary\bin\Debug\X2CodingLab.SensorTag.pdb
+C:\New folder\PwC.IN.IM.SensorTag.DataAnalysis\PwC.IN.IM.SensorTag.DataAnalysis\SensorTagLibrary\bin\Debug\X2CodingLab.SensorTag.pri
+C:\New folder\PwC.IN.IM.SensorTag.DataAnalysis\PwC.IN.IM.SensorTag.DataAnalysis\SensorTagLibrary\obj\Debug\SensorTagLibrary.csprojResolveAssemblyReference.cache
+C:\New folder\PwC.IN.IM.SensorTag.DataAnalysis\PwC.IN.IM.SensorTag.DataAnalysis\SensorTagLibrary\obj\Debug\X2CodingLab.SensorTag.dll
+C:\New folder\PwC.IN.IM.SensorTag.DataAnalysis\PwC.IN.IM.SensorTag.DataAnalysis\SensorTagLibrary\obj\Debug\X2CodingLab.SensorTag.pdb
+C:\New folder\PwC.IN.IM.SensorTag.DataAnalysis\PwC.IN.IM.SensorTag.DataAnalysis\SensorTagLibrary\obj\Debug\priconfig.xml
+C:\New folder\PwC.IN.IM.SensorTag.DataAnalysis\PwC.IN.IM.SensorTag.DataAnalysis\SensorTagLibrary\obj\Debug\priconfig.xml.intermediate
+C:\New folder\PwC.IN.IM.SensorTag.DataAnalysis\PwC.IN.IM.SensorTag.DataAnalysis\SensorTagLibrary\obj\Debug\layout.resfiles
+C:\New folder\PwC.IN.IM.SensorTag.DataAnalysis\PwC.IN.IM.SensorTag.DataAnalysis\SensorTagLibrary\obj\Debug\layout.resfiles.intermediate
+C:\New folder\PwC.IN.IM.SensorTag.DataAnalysis\PwC.IN.IM.SensorTag.DataAnalysis\SensorTagLibrary\obj\Debug\resources.resfiles
+C:\New folder\PwC.IN.IM.SensorTag.DataAnalysis\PwC.IN.IM.SensorTag.DataAnalysis\SensorTagLibrary\obj\Debug\resources.resfiles.intermediate
+C:\New folder\PwC.IN.IM.SensorTag.DataAnalysis\PwC.IN.IM.SensorTag.DataAnalysis\SensorTagLibrary\obj\Debug\pri.resfiles
+C:\New folder\PwC.IN.IM.SensorTag.DataAnalysis\PwC.IN.IM.SensorTag.DataAnalysis\SensorTagLibrary\obj\Debug\pri.resfiles.intermediate
+C:\New folder\PwC.IN.IM.SensorTag.DataAnalysis\PwC.IN.IM.SensorTag.DataAnalysis\SensorTagLibrary\obj\Debug\qualifiers.txt
+C:\New folder\PwC.IN.IM.SensorTag.DataAnalysis\PwC.IN.IM.SensorTag.DataAnalysis\SensorTagLibrary\obj\Debug\qualifiers.txt.intermediate
+C:\New folder\PwC.IN.IM.SensorTag.DataAnalysis\PwC.IN.IM.SensorTag.DataAnalysis\SensorTagLibrary\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\CC2650\SensorTagLibrary\bin\Debug\X2CodingLab.SensorTag.dll
+C:\CC2650\SensorTagLibrary\bin\Debug\X2CodingLab.SensorTag.pdb
+C:\CC2650\SensorTagLibrary\bin\Debug\X2CodingLab.SensorTag.pri
+C:\CC2650\SensorTagLibrary\obj\Debug\SensorTagLibrary.csprojResolveAssemblyReference.cache
+C:\CC2650\SensorTagLibrary\obj\Debug\X2CodingLab.SensorTag.dll
+C:\CC2650\SensorTagLibrary\obj\Debug\X2CodingLab.SensorTag.pdb
+C:\CC2650\SensorTagLibrary\obj\Debug\priconfig.xml
+C:\CC2650\SensorTagLibrary\obj\Debug\priconfig.xml.intermediate
+C:\CC2650\SensorTagLibrary\obj\Debug\layout.resfiles
+C:\CC2650\SensorTagLibrary\obj\Debug\layout.resfiles.intermediate
+C:\CC2650\SensorTagLibrary\obj\Debug\resources.resfiles
+C:\CC2650\SensorTagLibrary\obj\Debug\resources.resfiles.intermediate
+C:\CC2650\SensorTagLibrary\obj\Debug\pri.resfiles
+C:\CC2650\SensorTagLibrary\obj\Debug\pri.resfiles.intermediate
+C:\CC2650\SensorTagLibrary\obj\Debug\qualifiers.txt
+C:\CC2650\SensorTagLibrary\obj\Debug\qualifiers.txt.intermediate
+C:\CC2650\SensorTagLibrary\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Joy\Desktop\CC2650\SensorTagLibrary\bin\Debug\X2CodingLab.SensorTag.dll
+C:\Users\Joy\Desktop\CC2650\SensorTagLibrary\bin\Debug\X2CodingLab.SensorTag.pdb
+C:\Users\Joy\Desktop\CC2650\SensorTagLibrary\bin\Debug\X2CodingLab.SensorTag.pri
+C:\Users\Joy\Desktop\CC2650\SensorTagLibrary\obj\Debug\X2CodingLab.SensorTag.dll
+C:\Users\Joy\Desktop\CC2650\SensorTagLibrary\obj\Debug\X2CodingLab.SensorTag.pdb
+C:\Users\Joy\Desktop\CC2650\SensorTagLibrary\obj\Debug\priconfig.xml
+C:\Users\Joy\Desktop\CC2650\SensorTagLibrary\obj\Debug\priconfig.xml.intermediate
+C:\Users\Joy\Desktop\CC2650\SensorTagLibrary\obj\Debug\layout.resfiles
+C:\Users\Joy\Desktop\CC2650\SensorTagLibrary\obj\Debug\layout.resfiles.intermediate
+C:\Users\Joy\Desktop\CC2650\SensorTagLibrary\obj\Debug\resources.resfiles
+C:\Users\Joy\Desktop\CC2650\SensorTagLibrary\obj\Debug\resources.resfiles.intermediate
+C:\Users\Joy\Desktop\CC2650\SensorTagLibrary\obj\Debug\pri.resfiles
+C:\Users\Joy\Desktop\CC2650\SensorTagLibrary\obj\Debug\pri.resfiles.intermediate
+C:\Users\Joy\Desktop\CC2650\SensorTagLibrary\obj\Debug\qualifiers.txt
+C:\Users\Joy\Desktop\CC2650\SensorTagLibrary\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Joy\Desktop\CC2650\SensorTagLibrary\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\joyr682\Desktop\CC2650\SensorTagLibrary\bin\Debug\X2CodingLab.SensorTag.dll
+C:\Users\joyr682\Desktop\CC2650\SensorTagLibrary\bin\Debug\X2CodingLab.SensorTag.pdb
+C:\Users\joyr682\Desktop\CC2650\SensorTagLibrary\bin\Debug\X2CodingLab.SensorTag.pri
+C:\Users\joyr682\Desktop\CC2650\SensorTagLibrary\obj\Debug\SensorTagLibrary.csprojResolveAssemblyReference.cache
+C:\Users\joyr682\Desktop\CC2650\SensorTagLibrary\obj\Debug\X2CodingLab.SensorTag.dll
+C:\Users\joyr682\Desktop\CC2650\SensorTagLibrary\obj\Debug\X2CodingLab.SensorTag.pdb
+C:\Users\joyr682\Desktop\CC2650\SensorTagLibrary\obj\Debug\priconfig.xml
+C:\Users\joyr682\Desktop\CC2650\SensorTagLibrary\obj\Debug\priconfig.xml.intermediate
+C:\Users\joyr682\Desktop\CC2650\SensorTagLibrary\obj\Debug\layout.resfiles
+C:\Users\joyr682\Desktop\CC2650\SensorTagLibrary\obj\Debug\layout.resfiles.intermediate
+C:\Users\joyr682\Desktop\CC2650\SensorTagLibrary\obj\Debug\resources.resfiles
+C:\Users\joyr682\Desktop\CC2650\SensorTagLibrary\obj\Debug\resources.resfiles.intermediate
+C:\Users\joyr682\Desktop\CC2650\SensorTagLibrary\obj\Debug\pri.resfiles
+C:\Users\joyr682\Desktop\CC2650\SensorTagLibrary\obj\Debug\pri.resfiles.intermediate
+C:\Users\joyr682\Desktop\CC2650\SensorTagLibrary\obj\Debug\qualifiers.txt
+C:\Users\joyr682\Desktop\CC2650\SensorTagLibrary\obj\Debug\qualifiers.txt.intermediate
+C:\Users\joyr682\Desktop\CC2650\SensorTagLibrary\obj\Debug\MultipleQualifiersPerDimensionFound.txt
